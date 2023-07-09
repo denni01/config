@@ -1,0 +1,14 @@
+dconf/
+evolution/
+gnome-initial-setup-done
+gnome-session
+goa-1.0
+.gsd-keyboard.settings-ported
+gtk-3.0
+ibus
+mimeapps.list
+nautilus
+procps
+pulse
+update-notifier
+user-dirs.*
