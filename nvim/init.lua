@@ -1,1 +1,1 @@
-require("dennis")
+require("plugins")
